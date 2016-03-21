@@ -43,6 +43,7 @@ owner:
     - title: rss
       url: https://www.tothepoint.company/feed.xml
 
+
 # Build settings
 markdown: kramdown
 kramdown:
