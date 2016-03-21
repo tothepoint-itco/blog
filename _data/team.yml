@@ -1,0 +1,168 @@
+steven_heyninck:
+  name: Steven Heyninck
+  pic: stevenheyninck.jpg
+  position: Evolutionary Architect
+  description: Managing Partner at ToThePoint
+  social:
+    - title: envelope
+      url: steven.heyninck@tothepoint.company
+    - title: twitter
+      handle: harshwhispers
+      url: https://twitter.com/harshwhispers
+    - title: linkedin
+      url: https://be.linkedin.com/in/stehey
+    - title: github
+      url: https://github.com/heynist
+    - title: google-plus
+      url: https://plus.google.com/u/0/111919600758926484508
+
+michel_grootjans:
+  name: Michel Grootjans
+  pic: michelgrootjans.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: michel.grootjans@tothepoint.company
+    - title: twitter
+      handle: michelgrootjans
+      url: https://twitter.com/
+    - title: linkedin
+      url: https://be.linkedin.com/in/michelgrootjans
+    - title: github
+      url: https://github.com/michelgrootjans
+
+joachim_maes:
+  name: Joachim Maes
+  pic: joachimmaes.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: joachim.maes@tothepoint.company
+    - title: twitter
+      handle: joachim_maes
+      url: https://twitter.com/
+    - title: github
+      url: https://github.com/joachimmaes
+
+kris_van_vlaenderen:
+  name: Kris Van Vlaenderen
+  pic: krisvanvlaenderen.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: kris.van.vlaenderen@tothepoint.company
+
+kaj_van_der_hallen:
+  name: Kaj Van der Hallen
+  pic: kajvanderhallen.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: kaj.van.der.hallen@tothepoint.company
+
+marc_kimpe:
+  name: Marc Kimpe
+  pic: marckimpe.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: marc.kimpe@tothepoint.company
+
+laurens_de_la_marche:
+  name: Laurens De la Marche
+  pic: laurensdelamarche.jpg
+  position: Evolutionary Architect
+  description: Laurens is a freelance IT consultant specialised in Ruby On Rails. He also enjoys experimenting with Machine Learning.
+  social:
+    - title: envelope
+      url: laurens.de.la.marche@tothepoint.company
+    - title: linkedin
+      url: https://www.linkedin.com/in/laurens-de-la-marche-3a259618
+    - title: github
+      url:  https://github.com/ldlamarc
+    - title: external-link
+      url: http://www.laurensdelamarche.be
+
+michael_rigart:
+  name: Michaël Rigart
+  pic: michaelrigart.jpg
+  position: Evolutionary Architect
+  description: Michaël is a DevOps enthusiast / freelance software engineer. Loves writing Ruby and automate all the things. The more we share, the more we have.
+  social:
+    - title: envelope
+      url: michael.rigart@tothepoint.company
+    - title: twitter
+      handle: netr0nix
+      url: https://twitter.com/
+    - title: linkedin
+      url: https://be.linkedin.com/in/michaelrigart
+    - title: github
+      url: https://github.com/michaelrigart
+    - title: google-plus
+      url: https://plus.google.com/u/0/+Micha%C3%ABlRigart
+    - title: external-link
+      url: https://www.michaelrigart.be
+
+luc_duponcheel:
+  name: Luc Duponcheel
+  pic: lucduponcheel.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: luc.duponcheel@tothepoint.company
+
+kris_duffeler:
+  name: Kris Duffeler
+  pic: avatar.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: kris.duffeler@tothepoint.company
+
+koen_van_look:
+  name: Koen Van Look
+  pic: avatar.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: koen.van.look@tothepoint.company
+
+butrint_zymberi:
+  name: Butrint Zymberi
+  pic: avatar.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: butrint.zymberi@tothepoint.company
+
+bas_van_holm:
+  name: Bas Van Holm
+  pic: avatar.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: bas.van.holm@tothepoint.company
+
+bert_duerinck:
+  name: Bart Deurinck
+  pic: avatar.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: bert.duerinck@tothepoint.company
+
+luc_de_cleene:
+  name: Luc De Cleene
+  pic: avatar.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: luc.de.cleene@tothepoint.company
+
+pascal_riquier:
+ name: Pascal Riquier
+ pic: avatar.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: pascal.riquier@tothepoint.company

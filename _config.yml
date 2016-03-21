@@ -1,0 +1,53 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: ToThePoint
+email: michael.rigart@tothepoint.company
+description: > # this means to ignore newlines until "baseurl:"
+  EVOLUTIONARY ARCHITECTURE
+  Our future-proof solutions.  Your competitive edge.
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'https://www.tothepoint.company' # the base hostname & protocol for your site
+locale: 'en-US'
+
+permalink: /blog/:title
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+owner:
+  name: ToThePoint
+  google:
+    analytics: UA-75369812-1
+    verify: SRZ1ccVhvN9npUOLgXppYk_bicdJT3IWkhHKRmHRPW0
+    ad-client:
+    ad-slot:
+  bing-verify:
+  social:
+    - title: twitter
+      handle: ToThePoint_ITCo
+      url: https://twitter.com/ToThePoint_ITCo
+    - title: linkedin
+      url: https://www.linkedin.com/company/to-the-point-it-company
+    - title: github
+      url: https://github.com/tothepoint-itco
+    - title: google-plus
+      url: https://plus.google.com/b/100233021972417371064/
+    - title: facebook
+      url: https://www.facebook.com/ToThePointITCo
+    - title: rss
+      url: https://www.tothepoint.company/feed.xml
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+
+include: [".htaccess"]
+exclude: ["Gemfile", "Gemfile.lock"]

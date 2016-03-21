@@ -1,0 +1,23 @@
+---
+layout: list
+title: Blog
+permalink: /blog/
+menu: main
+weight: 3
+---
+
+{% for post in site.posts %}
+{% assign loopindex = forloop.index | modulo: 3 %}
+
+{% if loopindex == 1 %} <div class="row"> {% endif %}
+  <div class="col-md-4 col-sm-6 portfolio-item">
+    <a href="{{ post.url }}" class="portfolio-link">
+      <img src="/img/blog/{% if post.header %}{{ post.header }}{% else %}default.jpg{% endif %}" class="img-responsive img-centered" alt="">
+    </a>
+    <div class="portfolio-caption">
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <p class="text-muted"><small><strong>{{ site.data.team[post.author].name }}</strong></small></p>
+    </div>
+  </div>
+  {% if loopindex == 0 %} </div> {% endif %}
+{% endfor %}

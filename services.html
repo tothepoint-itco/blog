@@ -1,0 +1,33 @@
+---
+layout: default
+title: Services
+permalink: /services/
+menu: main
+weight: 2
+---
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Our Areas Of Expertise</h2>
+      </div>
+    </div>
+    {% for service in site.data.services %}
+      {% assign loopindex = forloop.index | modulo: 3 %}
+
+      {% if loopindex == 1 %} <div class="row"> {% endif %}
+
+      <div class="col-md-4">
+        <h2>{{ service.title }}</h2>
+        <ul>
+          {% for item in service.items %}
+            <li>{{ item }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+
+      {% if loopindex == 0 %} </div> {% endif %}
+    {% endfor %}
+  </div>
+</section>

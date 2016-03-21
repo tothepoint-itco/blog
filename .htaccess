@@ -1,0 +1,8 @@
+RewriteEngine  on
+RewriteRule    "^journal/2016/1/26/roots-of-agility"  "/roots-of-agility/"  [R=301,L]
+RewriteRule    "^journal/2016/1/10/a-practical-introduction-to-ddd-and-ood-coming-from-standard-rails-part-2"  "/blog/a-practical-introduction-to-ddd-and-ood-coming-from-standard-rails-part-2/"  [R=301,L]
+RewriteRule    "^journal/2015/11/17/doing-agile-versus-being-agile-revisited-1"  "/blog/doing-agile-versus-being-agile-revisited/"  [R=301,L]
+RewriteRule    "^journal/2015/11/17/devoxx-belgium-2015-developers-are-ready-for-digital-transformation"  "/blog/devoxx-belgium-2015-developers-are-ready-for-digital-transformation/"  [R=301,L]
+RewriteRule    "^journal/2015/10/30/spring-rest-doc"  "/blog/spring-rest-doc/"  [R=301,L]
+RewriteRule    "^journal/2015/11/8/a-practical-introduction-to-ddd-and-ood-coming-from-standard-rails-part-1"  "/blog/a-practical-introduction-to-ddd-and-ood-coming-from-standard-rails-part-1/"  [R=301,L]
+RewriteRule    "^journal/2015/11/3/hoe-tothepoint-de-droom-om-programmeur-te-worden-mee-wil-helpen-waar-worden"  "/blog/hoe-tothepoint-de-droom-om-programmeur-te-worden-mee-wil-helpen-waar-worden/"  [R=301,L]

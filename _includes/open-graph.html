@@ -1,0 +1,20 @@
+{% if site.owner.google.verify %}<meta name="google-site-verification" content="{{ site.owner.google.verify }}">{% endif %}
+{% if site.owner.bing-verify %}<meta name="msvalidate.01" content="{{ site.owner.bing-verify }}">{% endif %}
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="twitter:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+{% if page.description %}<meta name="twitter:description" content="{{ page.description | strip_html }}">{% endif %}
+{% for social in site.owner.social %}{% if social.title == 'twitter' %}<meta name="twitter:site" content="@{{ social.handle }}">{% endif %}{% endfor %}
+{% for social in site.data.team[page.author].social %}{% if social.title == 'twitter' %}<meta name="twitter:creator" content="@{{ social.handle }}">{% endif %}{% endfor %}
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{{ site.url }}/img/social.jpeg">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="{{ site.locale }}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+{% if page.description %}<meta property="og:description" content="{{ page.description | strip_html }}">{% endif %}
+<meta property="og:site_name" content="{{ site.title }}">
+<meta name="og:image" content="{{ site.url }}/img/social.jpeg">

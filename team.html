@@ -1,0 +1,48 @@
+---
+layout: default
+title: Team
+permalink: /team/
+menu: main
+weight: 4
+---
+
+ 
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Our Amazing Team</h2>
+        <h3 class="section-subheading text-muted">Meet our amazing team of Architects</h3>
+      </div>
+    </div>
+    {% for member_hash in site.data.team %}
+      {% assign member = member_hash[1] %}
+      {% assign loopindex = forloop.index | modulo: 3 %}
+
+      {% if loopindex == 1 %} <div class="row"> {% endif %}
+      <div class="col-sm-4">
+        <div class="team-member">
+          <img src="/img/team/{{ member.pic }}" class="img-responsive img-circle" alt="">
+          <h4>{{ member.name }}</h4>
+          <p class="text-muted inverted">{{ member.position }}</p>
+          <p class="text-muted">{{ member.description }}</p>
+          <ul class="list-inline social-buttons">
+            {% for network in member.social %}
+              <li>
+                {% if network.title == 'envelope' %}
+                  <a href="mailto:{{ network.url }}">
+                {% else %}
+                  <a href="{{ network.url }}">
+                {% endif %}
+                  <i class="fa fa-{{ network.title }}"></i>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+      {% if loopindex == 0 %} </div> {% endif %}
+    {% endfor %}
+  </div>
+</section>
+

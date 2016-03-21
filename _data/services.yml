@@ -1,0 +1,40 @@
+- title: Well Established
+  items:
+    - DevOps
+    - Distributed computing
+    - Search technologies
+    - Scalable architectures
+    - Complex event processing
+    - Continuous delivery
+    - Centralised logging
+    - Containerisation
+    - Event sourcing
+    - CQRS
+- title: Recently Gained
+  items:
+    - Microservices
+    - Functional programming
+    - Reactive programming
+    - Data science
+    - PAAS expertise
+    - API management
+- title: On Our Radar
+  items:
+    - Internet of Things
+    - Stream processing
+    - NAO Robotics
+    - Deep Learning (AI)
+- title: Methodologies
+  items:
+    - Domain Driven Design
+    - Test Driven Development
+    - Agile
+    - XP
+- title: Architectures
+  items:
+    - Cloud-native
+    - Service oriented
+    - Microservice
+    - Model View Controller
+    - Lambda
+    - Kappa
