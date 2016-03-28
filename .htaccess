@@ -6,3 +6,12 @@ RewriteRule    "^journal/2015/11/17/devoxx-belgium-2015-developers-are-ready-for
 RewriteRule    "^journal/2015/10/30/spring-rest-doc"  "/blog/spring-rest-doc/"  [R=301,L]
 RewriteRule    "^journal/2015/11/8/a-practical-introduction-to-ddd-and-ood-coming-from-standard-rails-part-1"  "/blog/a-practical-introduction-to-ddd-and-ood-coming-from-standard-rails-part-1/"  [R=301,L]
 RewriteRule    "^journal/2015/11/3/hoe-tothepoint-de-droom-om-programmeur-te-worden-mee-wil-helpen-waar-worden"  "/blog/hoe-tothepoint-de-droom-om-programmeur-te-worden-mee-wil-helpen-waar-worden/"  [R=301,L]
+
+RewriteRule    "^journal?format=RSS" "/feed/xml" [R=301,L]
+RewriteRule    "^roots-of-agility" "/blog/roots-of-agility/" [R=301,L]
+RewriteRule    "^intro" "/" [R=301,L]
+RewriteRule    "^journal/2015/11/1/tothepoint-architects-are-getting-a-crash-course-in-content-generation" "/blog/" [R=301,L]
+RewriteRule    "^end" "/" [R=301,L]
+RewriteRule    "^hike" "/" [R=301,L]
+RewriteRule    "^journal" "/blog/" [R=301,L]
+RewriteRule    "^ride" "/" [R=301,L]
