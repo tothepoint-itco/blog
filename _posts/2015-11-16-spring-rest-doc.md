@@ -1089,6 +1089,7 @@ Add a new snippet template for this:
 
 ```
 |===
+{% raw %}
 |Path|Type|Description|Constraints
 
 {{#fields}}
@@ -1100,6 +1101,7 @@ Add a new snippet template for this:
 
 {{/fields}}
 |===
+{% endraw %}
 ```
 
 The extra constraints column is what we added to the default template.
