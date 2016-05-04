@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Microservices: The Most Occuring Obstacles"
-permalink: /blog/microservices-the-most-occuring-obstacles/
+title: "Microservices: The Most Occurring Obstacles"
+permalink: /blog/microservices-the-most-occurring-obstacles/
 author: kaj_van_der_hallen
 date:   2016-05-04
 header: microservices.jpg
 ---
 
-The intention of this blog post is to tackle the most occuring obstacles that people find on their way to microservices.
+The intention of this blog post is to tackle the most occurring obstacles that people find on their way to microservices.
 
 ## Shared Datastore
 A big obstacle that people will find on their way to microservices, is giving every service its own datastore. This means that they do not share the same datastore with each other.
@@ -38,7 +38,7 @@ The image below (Source: [Microservices (Martin Fowler)](http://martinfowler.com
 ---
 
 ## Synchronous vs Asynchronous
-One of the most occuring obstacles when adapting to a microservices architecture is the way of communicating between the services. In this section I will try to explain why we should prefer asynchronous communication over synchronous communication.
+One of the most occurring obstacles when adapting to a microservices architecture is the way of communicating between the services. In this section I will try to explain why we should prefer asynchronous communication over synchronous communication.
 
 ### Synchronous communication
 Synchronous communication was never a problem in relatively small monolithic applications because it is a very simple concept to reason about. The client sends a request to the server, and the server responds to the client.
