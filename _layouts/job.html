@@ -1,0 +1,78 @@
+---
+layout: default
+---
+
+{% assign job = site.data.jobs[page.job] %}
+
+<header class="blog" style="background-image:url('/img/job/{% if job.background_img %}{{ job.background_img }}{% else %}default.jpg{% endif %}');"></header>
+
+<div class="container">
+  <h1 class="text-center">{{ job.title | escape }}</h1>
+  <div class="row">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Wie wij zijn</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <p>
+ToThePoint biedt hun brede expertise aan om eender welk project, van business tot ontwikkeling, tot een goed einde te brengen door de juiste oplossingen aan te reiken, te ontwerpen en vervolgens te implementeren en ook te ondersteunen. Om dit te kunnen waarmaken zijn zij technology stack en vendor onafhankelijk.
+De consultants zijn enthousiastelingen met een brede kennis in verschillende talen, frameworks en architecturale stijlen.
+Ze hebben een expertise opgebouwd in verscheidene technology stacks en hebben bovenal van hun hobby hun werk gemaakt.
+        </p>
+	  </div>
+	</div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Wie jij bent</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+		{% for wie_jij_bent_hash in job.wie_jij_bent %}
+          <p>{{ wie_jij_bent_hash["ingesteldheid"] }}</p>
+        {% endfor %}
+	  </div>
+	</div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Je zal</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+		{% for je_zal_hash in job.je_zal %}
+          <p>{{ je_zal_hash["doen"] }}</p>
+        {% endfor %}
+	</p>
+	  </div>
+	</div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Wat jij hebt</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+		{% for kennis_hash in job.wat_jij_hebt %}
+            <p>{{ kennis_hash["kennis"] }}</p>
+		{% endfor %}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading">Wat wij je bieden</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-lg-12 text-center">
+		{% for bieden_hash in job.wat_wij_je_bieden %}
+            <p>{{ bieden_hash["item"] }}</p>
+		{% endfor %}
+	  </div>
+	</div>
+  </div>
+</div>
+
+

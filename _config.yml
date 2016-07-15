@@ -52,3 +52,8 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["Gemfile", "Gemfile.lock"]
+
+# Collections
+collections:
+  jobs:
+    output: true
