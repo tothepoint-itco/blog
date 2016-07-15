@@ -11,7 +11,7 @@ Last september, [Andy Wilkinson](https://twitter.com/ankinson),
 [Spring IO Platform](https://spring.io/platform) lead at cloud-native platform company
 [Pivotal](http://pivotal.io/) gave a talk in Washington DC at
 [SpringOne2GX](http://www.springone2gx.com/) about 'Documenting Restful APIs'
-([slides](https://2015.event.springone2gx.com/schedule/sessions/documenting_restful_apis.html).
+([slides](https://2015.event.springone2gx.com/schedule/sessions/documenting_restful_apis.html)).
 
 See this webinar for reference:
 
