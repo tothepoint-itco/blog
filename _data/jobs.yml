@@ -1,3 +1,37 @@
+architect:
+  url: architect
+  background_img: architect-background.jpg
+  img: architect.jpg
+  title: Architect
+  wie_jij_bent:
+    - ingesteldheid: "Je bent gebeten door alles wat met IT architectuur te maken heeft, of je nu beginnend of doorwinterd bent, werknemer of freelancer bent."
+    - ingesteldheid: "Je vindt het belangrijk om bij te blijven en je deelt met plezier je kennis en expertise met je teamleden en met de klanten."
+    - ingesteldheid: "Je denkt graag mee met de klant om de beste oplossingen te creëren."
+    - ingesteldheid: "Je bent down to earth en hebt een to the point attitude."
+  je_zal:
+    - doen: "Software designs maken, laten challengen en verdedigen en tweaken waar nodig."
+    - doen: "Zelf nog mee de handen uit de mouwen of de laarzen in de modder durven steken tijdens implementatie en bug fixing."
+    - doen: "Teams coachen bij de ontwikkeling van applicaties en toepassing van patronen en best practices."
+    - doen: "Town planning doen binnen een IT landschap."
+    - doen: "Deelnemen aan presales gesprekken met klant en hen helpen om de juiste afwegingen en keuzes te maken."
+    - doen: "Klanten ondersteunen en adviseren tijdens een project in hun noden en hen leiden naar de optimale oplossing."
+    - doen: "Strakke deadlines halen, heldere en onderbouwde communicatie voeren en één zijn met de teams waarin je opereert."
+    - doen: "Een open mind hebben om bij te leren over nieuwe technologieën om zo bij te blijven met de laatste trends."
+  wat_jij_hebt: 
+    - kennis: "Kennis van architecturale principes."
+    - kennis: "Brede technische kennis van en ervaring in software ontwikkeling."
+    - kennis: "Zeer brede technische interesse."
+    - kennis: "Je vindt je weg (terug) in Git."
+    - kennis: "Je kent je weg in continuous integration, continuous delivery, en bent goed vertrouwd met DDD, BDD en TDD."
+    - kennis: "Een gezonde drive, flexibiliteit in je takenpakket en werkregio."
+    - kennis: "Certificaten zijn welkom maar ‘honger’ des te meer."
+  wat_wij_je_bieden:
+    - item: "Uniek groeitraject wat je mee kan uitstippelen volgens jouw eigen mogelijkheden en wensen, zowel wat betreft rol (development, architectuur, coaching, team lead) als specialisatie (java, .net, scala, RoR, elixir, ...)."
+    - item: "Opleiding en coaching."
+    - item: "Afwisseling, fijne projecten en ook fun projects."
+    - item: "Een marktconform maar competitief salaris met daarbovenop een bedrijfswagen met tankkaart, een krachtige laptop, een compleet verzekeringspakket en uiteraard ook opleidingsmogelijkheden."
+    - item: "Een stimulerende, professionele en fijne werkomgeving."
+
 senior_java_developer:
   url: senior-java-developer
   background_img: java-background.jpg
@@ -116,40 +150,6 @@ scala_developer:
     - kennis: "SBT build tool kunnen gebruiken."
     - kennis: "Je vindt je weg (terug) in Git."
     - kennis: "Continuous integration, continuous delivery, DDD en TDD doen op zijn minst een belletje rinkelen."
-    - kennis: "Een gezonde drive, flexibiliteit in je takenpakket en werkregio."
-    - kennis: "Certificaten zijn welkom maar ‘honger’ des te meer."
-  wat_wij_je_bieden:
-    - item: "Uniek groeitraject wat je mee kan uitstippelen volgens jouw eigen mogelijkheden en wensen, zowel wat betreft rol (development, architectuur, coaching, team lead) als specialisatie (java, .net, scala, RoR, elixir, ...)."
-    - item: "Opleiding en coaching."
-    - item: "Afwisseling, fijne projecten en ook fun projects."
-    - item: "Een marktconform maar competitief salaris met daarbovenop een bedrijfswagen met tankkaart, een krachtige laptop, een compleet verzekeringspakket en uiteraard ook opleidingsmogelijkheden."
-    - item: "Een stimulerende, professionele en fijne werkomgeving."
-
-architect:
-  url: architect
-  background_img: architect-background.jpg
-  img: architect.jpg
-  title: Architect
-  wie_jij_bent:
-    - ingesteldheid: "Je bent gebeten door alles wat met IT architectuur te maken heeft, of je nu beginnend of doorwinterd bent, werknemer of freelancer bent."
-    - ingesteldheid: "Je vindt het belangrijk om bij te blijven en je deelt met plezier je kennis en expertise met je teamleden en met de klanten."
-    - ingesteldheid: "Je denkt graag mee met de klant om de beste oplossingen te creëren."
-    - ingesteldheid: "Je bent down to earth en hebt een to the point attitude."
-  je_zal:
-    - doen: "Software designs maken, laten challengen en verdedigen en tweaken waar nodig."
-    - doen: "Zelf nog mee de handen uit de mouwen of de laarzen in de modder durven steken tijdens implementatie en bug fixing."
-    - doen: "Teams coachen bij de ontwikkeling van applicaties en toepassing van patronen en best practices."
-    - doen: "Town planning doen binnen een IT landschap."
-    - doen: "Deelnemen aan presales gesprekken met klant en hen helpen om de juiste afwegingen en keuzes te maken."
-    - doen: "Klanten ondersteunen en adviseren tijdens een project in hun noden en hen leiden naar de optimale oplossing."
-    - doen: "Strakke deadlines halen, heldere en onderbouwde communicatie voeren en één zijn met de teams waarin je opereert."
-    - doen: "Een open mind hebben om bij te leren over nieuwe technologieën om zo bij te blijven met de laatste trends."
-  wat_jij_hebt: 
-    - kennis: "Kennis van architecturale principes."
-    - kennis: "Brede technische kennis van en ervaring in software ontwikkeling."
-    - kennis: "Zeer brede technische interesse."
-    - kennis: "Je vindt je weg (terug) in Git."
-    - kennis: "Je kent je weg in continuous integration, continuous delivery, en bent goed vertrouwd met DDD, BDD en TDD."
     - kennis: "Een gezonde drive, flexibiliteit in je takenpakket en werkregio."
     - kennis: "Certificaten zijn welkom maar ‘honger’ des te meer."
   wat_wij_je_bieden:
