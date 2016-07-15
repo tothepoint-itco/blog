@@ -8,22 +8,24 @@
     - Continuous delivery
     - Centralised logging
     - Containerisation
+    - Microservices
     - Event sourcing
     - CQRS
 - title: Recently Gained
   items:
-    - Microservices
     - Functional programming
     - Reactive programming
     - Data science
     - PAAS expertise
     - API management
-- title: On Our Radar
-  items:
     - Internet of Things
     - Stream processing
     - NAO Robotics
+- title: On Our Radar
+  items:
     - Deep Learning (AI)
+    - Smart Machines
+    - Industrial Internet of Things
 - title: Methodologies
   items:
     - Domain Driven Design
