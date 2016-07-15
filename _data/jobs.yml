@@ -1,8 +1,7 @@
 senior_java_developer:
-  url: 2016-07-15-senior-java-developer
+  url: senior-java-developer
   background_img: java-background.jpg
   img: senior-java-developer.jpg
-  date: 15-07-2016
   title: Senior java developer
   wie_jij_bent:
     - ingesteldheid: "Je bent gebeten door alles wat met java te maken heeft, of je nu werknemer of freelancer bent."
@@ -33,10 +32,9 @@ senior_java_developer:
     - item: "Een stimulerende, professionele en fijne werkomgeving."
 
 junior_java_developer:
-  url: 2016-07-15-junior-java-developer
+  url: junior-java-developer
   background_img: java-background.jpg
   img: junior-java-developer.jpg
-  date: 15-07-2016
   title: Junior java developer
   wie_jij_bent:
     - ingesteldheid: "Je bent gebeten door alles wat met java te maken heeft, of je nu schoolverlater of reeds een eerste werknemer achter de rug hebt, werknemer of freelancer bent."
@@ -65,10 +63,9 @@ junior_java_developer:
     - item: "Een stimulerende, professionele en fijne werkomgeving."
 
 frontend_developer:
-  url: 2016-07-15-frontend-developer
+  url: frontend-developer
   background_img: frontend-background.jpg
   img: frontend-developer.jpg
-  date: 15-07-2016
   title: Frontend developer
   wie_jij_bent:
     - ingesteldheid: "Je bent gebeten door alles wat met frontend development te maken heeft, of je nu junior of specialist bent, werknemer of freelancer."
@@ -97,10 +94,9 @@ frontend_developer:
     - item: "Een stimulerende, professionele en fijne werkomgeving."
 
 scala_developer:
-  url: 2016-07-15-scala-developer
+  url: scala-developer
   background_img: scala-background.jpg
   img: scala-developer.jpg
-  date: 15-07-2016
   title: Scala developer
   wie_jij_bent:
     - ingesteldheid: "Je bent gebeten door alles wat met scala te maken heeft, of je nu schoolverlater of reeds een eerste werknemer achter de rug hebt, werknemer of freelancer bent."
