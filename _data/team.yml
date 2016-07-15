@@ -43,6 +43,8 @@ joachim_maes:
       url: https://twitter.com/joachim_maes
     - title: github
       url: https://github.com/joachimmaes
+    - title: linkedin
+      url: https://be.linkedin.com/in/joachim-maes-a778761
 
 kris_van_vlaenderen:
   name: Kris Van Vlaenderen
@@ -51,6 +53,8 @@ kris_van_vlaenderen:
   social:
     - title: envelope
       url: kris.van.vlaenderen@tothepoint.company
+    - title: linkedin
+      url: https://be.linkedin.com/in/krisvanvlaenderen
 
 kaj_van_der_hallen:
   name: Kaj Van der Hallen
@@ -59,6 +63,13 @@ kaj_van_der_hallen:
   social:
     - title: envelope
       url: kaj.van.der.hallen@tothepoint.company
+    - title: twitter
+      handle: KajVdHallen
+      url: https://twitter.com/KajVdHallen
+    - title: github
+      url: https://github.com/Kajvdh
+    - title: linkedin
+      url: https://be.linkedin.com/in/kaj-van-der-hallen-30331127
 
 marc_kimpe:
   name: Marc Kimpe
@@ -67,21 +78,6 @@ marc_kimpe:
   social:
     - title: envelope
       url: marc.kimpe@tothepoint.company
-
-laurens_de_la_marche:
-  name: Laurens De la Marche
-  pic: laurensdelamarche.jpg
-  position: Evolutionary Architect
-  description: Laurens is a freelance IT consultant specialised in Ruby On Rails. He also enjoys experimenting with Machine Learning.
-  social:
-    - title: envelope
-      url: laurens.de.la.marche@tothepoint.company
-    - title: linkedin
-      url: https://www.linkedin.com/in/laurens-de-la-marche-3a259618
-    - title: github
-      url:  https://github.com/ldlamarc
-    - title: external-link
-      url: http://www.laurensdelamarche.be
 
 michael_rigart:
   name: Michaël Rigart
@@ -110,30 +106,50 @@ luc_duponcheel:
   social:
     - title: envelope
       url: luc.duponcheel@tothepoint.company
+    - title: twitter
+      handle: LucDup
+      url: https://twitter.com/LucDup
+    - title: linkedin
+      url: https://be.linkedin.com/in/lucduponcheel
 
 kris_duffeler:
   name: Kris Duffeler
-  pic: avatar.jpg
+  pic: krisduffeler.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
       url: kris.duffeler@tothepoint.company
+    - title: twitter
+      handle: KrisDuffeler
+      url: https://twitter.com/KrisDuffeler
+    - title: github
+      url: https://github.com/krisduffeler
+    - title: linkedin
+      url: https://be.linkedin.com/in/kris-duffeler-644b581
 
-koen_van_look:
-  name: Koen Van Look
-  pic: avatar.jpg
+koen_van_loock:
+  name: Koen Van Loock
+  pic: koenvanloock.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
-      url: koen.van.look@tothepoint.company
+      url: koen.vanloock@tothepoint.company
+    - title: github
+      url: https://github.com/koenvanloock
+    - title: linkedin
+      url: https://be.linkedin.com/in/koen-van-loock-87125482/en
 
 butrint_zymberi:
   name: Butrint Zymberi
-  pic: avatar.jpg
+  pic: butrintzymberi.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
       url: butrint.zymberi@tothepoint.company
+    - title: github
+      url: https://github.com/butrintzymberi
+    - title: linkedin
+      url: https://be.linkedin.com/in/butrint-zymberi-a23b92b7
 
 bas_van_holm:
   name: Bas Van Holm
@@ -141,28 +157,150 @@ bas_van_holm:
   position: Evolutionary Architect
   social:
     - title: envelope
-      url: bas.van.holm@tothepoint.company
+      url: sebastiaan.van.holm@tothepoint.company@tothepoint.company
+    - title: linkedin
+      url: https://be.linkedin.com/in/sebastiaan-van-holm-4474651
 
 bert_duerinck:
-  name: Bart Deurinck
+  name: Bert Deurinck
   pic: avatar.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
       url: bert.duerinck@tothepoint.company
+    - title: linkedin
+      url: https://be.linkedin.com/in/bert-duerinck-4b60592
+
+david_johnson:
+  name: David Johnson
+  pic: davidjohnson.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: david.johnson@tothepoint.company
+    - title: twitter
+      handle: adconet
+      url: https://twitter.com/adconet
+    - title: linkedin
+      url: https://be.linkedin.com/in/adconet
 
 luc_de_cleene:
   name: Luc De Cleene
-  pic: avatar.jpg
+  pic: lucdecleene.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
       url: luc.de.cleene@tothepoint.company
+    - title: linkedin
+      url: https://be.linkedin.com/in/lucdecleenelinkedin
 
 pascal_riquier:
- name: Pascal Riquier
+  name: Pascal Riquier
+  pic: pascalriquier.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: pascal.riquier@tothepoint.company
+    - title: twitter
+      handle: pascal_riquier
+      url: https://twitter.com/pascal_riquier
+    - title: github
+      url: https://github.com/pascalriquier
+    - title: linkedin
+      url: https://be.linkedin.com/in/pascal-riquier-87ab257b
+
+frederik_kaputa:
+  name: Frederik Kaputa
+  pic: frederikkaputa.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: frederik.kaputa@tothepoint.company
+    - title: twitter
+      handle: fkaputa
+      url: https://twitter.com/fkaputa
+    - title: linkedin
+      url: https://be.linkedin.com/in/frederikkaputa
+
+jan_van_rensbergen:
+  name: Jan Van Rensbergen
+  pic: janvanrensbergen.jpg
+  position: Evolutionary Architect
+  social:
+    - title: envelope
+      url: jan.vanrensbergen@tothepoint.company
+    - title: twitter
+      handle: Jan_VR
+      url: https://twitter.com/Jan_VR
+    - title: github
+      url: https://github.com/janvanrensbergen
+    - title: linkedin
+      url: https://be.linkedin.com/in/janvanrensbergen
+
+peter_de_kinder:
+ name: Peter De Kinder
+ pic: peterdekinder.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: peter.de.kinder@tothepoint.company
+   - title: linkedin
+     url: https://be.linkedin.com/in/peterdekinder
+
+lars_van_herk:
+ name: Lars Van Herk
+ pic: larsvanherk.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: lars.vanherk@tothepoint.company
+   - title: twitter
+     handle: LarsVHerk
+     url: https://twitter.com/LarsVHerk
+   - title: github
+     url: https://github.com/larsvanherk
+   - title: linkedin
+     url: https://be.linkedin.com/in/lars-van-herk-1b58b5b3/en
+
+peter_ophals:
+ name: Peter Ophals
+ pic: peterophals.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: peter.ophals@tothepoint.company
+   - title: linkedin
+     url: https://be.linkedin.com/in/peterophals
+
+johan_geerts:
+ name: Johan Geerts
  pic: avatar.jpg
  position: Evolutionary Architect
  social:
    - title: envelope
-     url: pascal.riquier@tothepoint.company
+     url: johan.geerts@cronos.be
+
+dirk_dhaenens:
+ name: Dirk Dhaenens
+ pic: dirkdhaenens.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: dirk.dhaenens@tothepoint.company
+   - title: linkedin
+     url: https://be.linkedin.com/in/dirkdhaenens
+
+geroen_joris:
+ name: Geroen Joris
+ pic: geroenjoris.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: geroen.joris@tothepoint.company
+   - title: twitter
+     handle: gjoris
+     url: https://twitter.com/gjoris
+   - title: github
+     url: https://github.com/gjoris
+   - title: linkedin
+     url: https://be.linkedin.com/in/geroenjoris
