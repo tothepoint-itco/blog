@@ -6,8 +6,7 @@ menu: main
 weight: 5
 ---
 
-{% for job_hash in site.data.jobs %}
-{% assign job = job_hash[1] %}
+{% for job in site.categories.job %}
 {% assign loopindex = forloop.index | modulo: 3 %}
 
 {% if loopindex == 1 %} <div class="row"> {% endif %}

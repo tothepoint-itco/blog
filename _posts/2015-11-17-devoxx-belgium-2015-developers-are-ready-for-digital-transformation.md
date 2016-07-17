@@ -5,6 +5,7 @@ permalink: /blog/devoxx-belgium-2015-developers-are-ready-for-digital-transforma
 author: marc_kimpe
 date:   2015-11-17
 header: devoxx.jpg
+category: post
 ---
 
 During the series of nice talks - thanks to the excellent speakers and organization! - it dawned to me that

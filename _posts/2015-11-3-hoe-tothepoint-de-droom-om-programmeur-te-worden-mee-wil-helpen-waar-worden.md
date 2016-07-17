@@ -5,6 +5,7 @@ permalink: /blog/hoe-tothepoint-de-droom-om-programmeur-te-worden-mee-wil-helpen
 author: steven_heyninck
 date:   2015-11-3
 header: dream.jpg
+category: post
 ---
 
 Bij ToThePoint kregen we vorig jaar de vraag of we een dagje les zouden willen geven bij

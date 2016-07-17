@@ -5,6 +5,7 @@ permalink: /blog/doing-agile-versus-being-agile-revisited/
 author: marc_kimpe
 date:   2015-11-19
 header: agile.jpg
+category: post
 ---
 
 A lot has already been written on the difference between “Doing Agile” and “Being Agile”.“Doing Agile” boils

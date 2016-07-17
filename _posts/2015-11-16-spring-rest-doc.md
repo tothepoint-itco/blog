@@ -5,6 +5,7 @@ permalink: /blog/spring-rest-doc/
 author: steven_heyninck
 date:   2015-11-16
 header: documenting.jpg
+category: post
 ---
 
 Last september, [Andy Wilkinson](https://twitter.com/ankinson),

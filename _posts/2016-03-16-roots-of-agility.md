@@ -5,6 +5,7 @@ permalink: /blog/roots-of-agility/
 author: marc_kimpe
 date:   2016-03-16
 header: roots.jpg
+category: post
 ---
 
 The current feeling about "Agile" in enterprises is a bit on the negative site - Gartner's trough of

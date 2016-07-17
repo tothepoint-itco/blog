@@ -5,6 +5,7 @@ permalink: /blog/a-practical-introduction-to-ddd-and-ood-coming-from-standard-ra
 author: laurens_de_la_marche
 date:   2016-1-10
 header: code-1.jpg
+category: post
 ---
 
 ## Part 2: Query Objects

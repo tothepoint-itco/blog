@@ -5,6 +5,7 @@ permalink: /blog/a-practical-introduction-to-ddd-and-ood-coming-from-standard-ra
 author: laurens_de_la_marche
 date:   2015-11-3
 header: code-1.jpg
+category: post
 ---
 
 This series is intended for an audience that feels comfortable with the basics of Ruby and Rails and wants

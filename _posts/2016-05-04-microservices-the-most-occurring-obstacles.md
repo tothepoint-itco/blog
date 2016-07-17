@@ -5,6 +5,7 @@ permalink: /blog/microservices-the-most-occurring-obstacles/
 author: kaj_van_der_hallen
 date:   2016-05-04
 header: microservices.jpg
+category: post
 ---
 
 The intention of this blog post is to tackle the most occurring obstacles that people find on their way to microservices.

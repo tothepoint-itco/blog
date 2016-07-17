@@ -5,6 +5,7 @@ permalink: /blog/setup-lets-encrypt-to-secure-your-website/
 author: michael_rigart
 date:   2016-04-07
 header: safe.jpg
+category: post
 ---
 
 If you don't know what [Let's Encrypt](https://letsencrypt.org/) is, let me briefly explain.

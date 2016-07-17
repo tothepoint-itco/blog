@@ -6,7 +6,7 @@ menu: main
 weight: 3
 ---
 
-{% for post in site.posts %}
+{% for post in site.categories.post %}
 {% assign loopindex = forloop.index | modulo: 3 %}
 
 {% if loopindex == 1 %} <div class="row"> {% endif %}
