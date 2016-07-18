@@ -3,7 +3,7 @@ layout: job
 title: Frontend developer
 permalink: /job/frontend-developer/
 category: job
-img: frontend-developer.jpg
+img: frontend-background.jpg
 background_img: frontend-background.jpg
 ---
 

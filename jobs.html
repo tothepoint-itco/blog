@@ -12,7 +12,7 @@ weight: 5
 {% if loopindex == 1 %} <div class="row"> {% endif %}
   <div class="col-md-4 col-sm-6 portfolio-item">
     <a href="{{ job.url }}" class="portfolio-link">
-      <img src="/img/job/{% if job.img %}{{ job.img }}{% else %}default.jpg{% endif %}" class="center-block" height="200" alt="">
+      <img src="/img/job/{% if job.img %}{{ job.img }}{% else %}default.jpg{% endif %}" class="center-block" height="200" width="320" alt="">
     <div class="portfolio-caption">
       <h4><a href="{{ job.url }}">{{ job.title }}</a></h4>
     </div>
