@@ -12,14 +12,14 @@ ToThePoint biedt een brede expertise aan om eender welk project, van business to
 Al onze consultants zijn enthousiastelingen met een brede kennis in verschillende talen, frameworks en architecturale stijlen. Ze hebben een expertise opgebouwd in verscheidene technology stacks en hebben bovenal van hun hobby hun werk gemaakt.
 
 ## Wie jij bent
-* Je bent gebeten door alles wat met backend development te maken heeft, of je nu schoolverlater of reeds een eerste werknemer achter de rug hebt, werknemer of freelancer bent.
+* Je bent gebeten door alles wat met backend development te maken heeft, of je nu schoolverlater bent of reeds een eerste werkervaring achter de rug hebt, of je werknemer of freelancer bent.
 * Je vindt het belangrijk om bij te blijven en je deelt met plezier je kennis en expertise met je teamleden en met de klanten.
 * Je denkt graag mee met de klant om de beste oplossingen te creëren.
 * Je bent down to earth en hebt een to the point attitude.
 
 ## Je zal
 * De klanten ondersteunen en adviseren in hun noden en hen leiden naar de optimale oplossing.
-* Allerlei applicaties ontwikkelen, implementeren en supporteren in een verscheidenheid aan technologieën
+* Allerlei applicaties ontwikkelen, implementeren en supporteren in een verscheidenheid aan technologieën.
 * Communicatie tussen verschillende applicaties opzetten (rest services, messaging, xml, json, …).
 * De applicaties testen (junit, mockito, cucumber, selenium, jmeter, …) en TDD gebruiken om je ontwikkelingen te sturen.
 * Strakke deadlines halen, korte communicatie voeren en scrum meetings volgen.

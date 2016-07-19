@@ -14,17 +14,17 @@ Al onze consultants zijn enthousiastelingen met een brede kennis in verschillend
 ## Wie jij bent
 * Je bent gebeten door alles wat met IT architectuur te maken heeft, of je nu een beginnend of doorwinterd architect, werknemer of freelancer bent.
 * Je hebt zowiezo een brede technologische interesse en bent niet gehuwd met 1 bepaalde technology stack of vendor.
-* Je hebt een brede technische achtergrond waar je op kan steunen en je bent ook nog zelf graag hands-on bezig.
+* Je hebt een brede technische achtergrond waar je op kan steunen en je bent ook nog graag zelf hands-on bezig.
 * Je vindt het belangrijk om bij te blijven en je deelt met plezier je kennis en expertise met je teamleden en met de klanten.
 * Je denkt graag mee met de klant om de beste oplossingen te creëren.
 * Je bent down to earth en hebt een to the point attitude.
 
 ## Je zal
-* Software designs maken, laten challengen en verdedigen en tweaken waar nodig.
+* Software designs maken, laten challengen, verdedigen en tweaken waar nodig.
 * Zelf nog mee de handen uit de mouwen of de laarzen in de modder durven steken tijdens implementatie en bug fixing.
 * Teams coachen bij de ontwikkeling van applicaties en toepassing van patronen en best practices.
 * Town planning doen binnen een IT landschap.
-* Deelnemen aan presales gesprekken met klant en hen helpen om de juiste afwegingen en keuzes te maken.
+* Deelnemen aan presales gesprekken met klanten en hen helpen om de juiste afwegingen en keuzes te maken.
 * Klanten ondersteunen en adviseren tijdens een project in hun noden en hen leiden naar de optimale oplossing.
 * Strakke deadlines halen, heldere en onderbouwde communicatie voeren en één zijn met de teams waarin je opereert.
 * Een open mind hebben om bij te leren over nieuwe technologieën om zo bij te blijven met de laatste trends.
