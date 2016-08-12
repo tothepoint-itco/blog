@@ -304,3 +304,11 @@ geroen_joris:
      url: https://github.com/gjoris
    - title: linkedin
      url: https://be.linkedin.com/in/geroenjoris
+
+maarten_callens:
+ name: Maarten Callens
+ pic: avatar.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: maarten.callens@tothepoint.company
