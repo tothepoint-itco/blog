@@ -158,8 +158,12 @@ bas_van_holm:
   social:
     - title: envelope
       url: sebastiaan.van.holm@tothepoint.company@tothepoint.company
+    - title: github
+      url: https://github.com/BasVanHolm
     - title: linkedin
       url: https://be.linkedin.com/in/sebastiaan-van-holm-4474651
+    - title: google-plus
+      url: https://plus.google.com/u/0/103568869589588527640
 
 bert_duerinck:
   name: Bert Deurinck
@@ -312,3 +316,13 @@ maarten_callens:
  social:
    - title: envelope
      url: maarten.callens@tothepoint.company
+
+marie_ingabire:
+ name: Marie Ingabire
+ pic: marieingabire.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: marie.ingabire@tothepoint.company
+   - title: github
+     url: https://github.com/mingabire

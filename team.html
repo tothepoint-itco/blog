@@ -6,7 +6,7 @@ menu: main
 weight: 4
 ---
 
- 
+
 <section>
   <div class="container">
     <div class="row">
@@ -22,7 +22,7 @@ weight: 4
       {% if loopindex == 1 %} <div class="row"> {% endif %}
       <div class="col-sm-4">
         <div class="team-member">
-          <img src="/img/team/{{ member.pic }}" class="img-circle" alt="" height="200">
+          <img src="/img/team/{{ member.pic }}" class="img-circle" alt="" height="200" width="200">
           <h4>{{ member.name }}</h4>
           <p class="text-muted inverted">{{ member.position }}</p>
           <p class="text-muted">{{ member.description }}</p>
@@ -45,4 +45,3 @@ weight: 4
     {% endfor %}
   </div>
 </section>
-
