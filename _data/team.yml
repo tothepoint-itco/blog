@@ -283,6 +283,8 @@ johan_geerts:
  social:
    - title: envelope
      url: johan.geerts@cronos.be
+   - title: github
+     url: https://github.com/jogee
 
 dirk_dhaenens:
  name: Dirk Dhaenens
@@ -326,3 +328,15 @@ marie_ingabire:
      url: marie.ingabire@tothepoint.company
    - title: github
      url: https://github.com/mingabire
+
+johan_siebens:
+ name: Johan Siebens
+ pic: johansiebens.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: johan.siebens@tothepoint.company
+   - title: github
+     url: https://github.com/nosceon
+   - title: linkedin
+     url: https://www.linkedin.com/in/johansiebens
