@@ -153,7 +153,7 @@ butrint_zymberi:
 
 bas_van_holm:
   name: Bas Van Holm
-  pic: avatar.jpg
+  pic: basvanholm.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
@@ -278,7 +278,7 @@ peter_ophals:
 
 johan_geerts:
  name: Johan Geerts
- pic: avatar.jpg
+ pic: johangeerts.jpg
  position: Evolutionary Architect
  social:
    - title: envelope
