@@ -276,16 +276,6 @@ peter_ophals:
    - title: linkedin
      url: https://be.linkedin.com/in/peterophals
 
-johan_geerts:
- name: Johan Geerts
- pic: johangeerts.jpg
- position: Evolutionary Architect
- social:
-   - title: envelope
-     url: johan.geerts@cronos.be
-   - title: github
-     url: https://github.com/jogee
-
 dirk_dhaenens:
  name: Dirk Dhaenens
  pic: dirkdhaenens.jpg
@@ -350,3 +340,33 @@ jef_van_houtven:
  social:
    - title: envelope
      url: jef.vanhoutven@tothepoint.company
+
+bryan_de_smaele:
+ name: Bryan De Smaele
+ pic: bryandesmaele.png
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: bryan.desmaele@tothepoint.company
+   - title: linkedin
+     url: https://be.linkedin.com/in/bryan-de-smaele-55bb8933
+
+kim_lauwers:
+ name: Kim Lauwers
+ pic: kimlauwers.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: kim.lauwers@tothepoint.company
+   - title: linkedin
+     url: https://be.linkedin.com/in/kimlauwers
+
+wouter_cleymans:
+   name: Wouter Cleymans
+   pic: woutercleymans.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: wouter.cleymans@tothepoint.company
+     - title: linkedin
+       url: https://be.linkedin.com/in/cwouter/en
