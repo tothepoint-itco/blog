@@ -355,3 +355,13 @@ wouter_cleymans:
        url: wouter.cleymans@tothepoint.company
      - title: linkedin
        url: https://be.linkedin.com/in/cwouter/en
+
+kevin_smeyers:
+   name: Kevin Smeyers
+   pic: kevinsmeyers.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: kevin.smeyers@tothepoint.company
+     - title: linkedin
+       url: https://be.linkedin.com/in/ksmeyers
