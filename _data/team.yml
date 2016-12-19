@@ -336,16 +336,6 @@ bryan_de_smaele:
    - title: linkedin
      url: https://be.linkedin.com/in/bryan-de-smaele-55bb8933
 
-kim_lauwers:
- name: Kim Lauwers
- pic: kimlauwers.jpg
- position: Evolutionary Architect
- social:
-   - title: envelope
-     url: kim.lauwers@tothepoint.company
-   - title: linkedin
-     url: https://be.linkedin.com/in/kimlauwers
-
 wouter_cleymans:
    name: Wouter Cleymans
    pic: woutercleymans.jpg
