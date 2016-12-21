@@ -355,3 +355,14 @@ kevin_smeyers:
        url: kevin.smeyers@tothepoint.company
      - title: linkedin
        url: https://be.linkedin.com/in/ksmeyers
+
+eva_marijnissen:
+   name: Eva Marijnissen
+   pic: evamarijnissen.jpg
+   position: Evolutionary Talent Manager
+   social:
+     - title: envelope
+       url: eva.marijnissen@tothepoint.company
+     - title: linkedin
+       url: https://be.linkedin.com/in/evamarijnissen
+
