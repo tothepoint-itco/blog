@@ -320,7 +320,7 @@ johan_siebens:
 
 jef_van_houtven:
  name: Jef Van Houtven
- pic: avatar.jpg
+ pic: jefvanhoutven.jpg
  position: Evolutionary Architect
  social:
    - title: envelope
@@ -366,3 +366,10 @@ eva_marijnissen:
      - title: linkedin
        url: https://be.linkedin.com/in/evamarijnissen
 
+jeroen_jacobs:
+   name: Jeroen Jacobs
+   pic: jeroenjacobs.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: jeroen.jacobs@tothepoint.company
