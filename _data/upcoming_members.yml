@@ -1,0 +1,11 @@
+jurgen_lust:
+   name: Jurgen Lust
+   pic: jurgenlust.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: jurgen.lust@tothepoint.company
+     - title: linkedin
+       url: https://be.linkedin.com/in/jurgenlust
+     - title: external-link
+       url: http://www.mastersoftwarecraftsman.be

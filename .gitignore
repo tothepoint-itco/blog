@@ -2,3 +2,5 @@ _site
 .sass-cache
 .jekyll-metadata
 .code-highlighter-cache
+.DS_Store
+img/.DS_Store

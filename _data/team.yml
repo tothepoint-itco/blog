@@ -31,21 +31,6 @@ michel_grootjans:
     - title: github
       url: https://github.com/michelgrootjans
 
-joachim_maes:
-  name: Joachim Maes
-  pic: joachimmaes.jpg
-  position: Evolutionary Architect
-  social:
-    - title: envelope
-      url: joachim.maes@tothepoint.company
-    - title: twitter
-      handle: joachim_maes
-      url: https://twitter.com/joachim_maes
-    - title: github
-      url: https://github.com/joachimmaes
-    - title: linkedin
-      url: https://be.linkedin.com/in/joachim-maes-a778761
-
 kris_van_vlaenderen:
   name: Kris Van Vlaenderen
   pic: krisvanvlaenderen.jpg
@@ -62,7 +47,7 @@ kaj_van_der_hallen:
   position: Evolutionary Architect
   social:
     - title: envelope
-      url: kaj.van.der.hallen@tothepoint.company
+      url: kaj.vanderhallen@tothepoint.company
     - title: twitter
       handle: KajVdHallen
       url: https://twitter.com/KajVdHallen
@@ -153,13 +138,17 @@ butrint_zymberi:
 
 bas_van_holm:
   name: Bas Van Holm
-  pic: avatar.jpg
+  pic: basvanholm.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
       url: sebastiaan.van.holm@tothepoint.company@tothepoint.company
+    - title: github
+      url: https://github.com/BasVanHolm
     - title: linkedin
       url: https://be.linkedin.com/in/sebastiaan-van-holm-4474651
+    - title: google-plus
+      url: https://plus.google.com/u/0/103568869589588527640
 
 bert_duerinck:
   name: Bert Deurinck
@@ -272,14 +261,6 @@ peter_ophals:
    - title: linkedin
      url: https://be.linkedin.com/in/peterophals
 
-johan_geerts:
- name: Johan Geerts
- pic: avatar.jpg
- position: Evolutionary Architect
- social:
-   - title: envelope
-     url: johan.geerts@cronos.be
-
 dirk_dhaenens:
  name: Dirk Dhaenens
  pic: dirkdhaenens.jpg
@@ -304,3 +285,91 @@ geroen_joris:
      url: https://github.com/gjoris
    - title: linkedin
      url: https://be.linkedin.com/in/geroenjoris
+
+maarten_callens:
+ name: Maarten Callens
+ pic: maartencallens.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: maarten.callens@tothepoint.company
+   - title: linkedin
+     url: https://www.linkedin.com/in/maartencallens
+
+marie_ingabire:
+ name: Marie Ingabire
+ pic: marieingabire.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: marie.ingabire@tothepoint.company
+   - title: github
+     url: https://github.com/mingabire
+
+johan_siebens:
+ name: Johan Siebens
+ pic: johansiebens.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: johan.siebens@tothepoint.company
+   - title: github
+     url: https://github.com/nosceon
+   - title: linkedin
+     url: https://www.linkedin.com/in/johansiebens
+
+jef_van_houtven:
+ name: Jef Van Houtven
+ pic: jefvanhoutven.jpg
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: jef.vanhoutven@tothepoint.company
+
+bryan_de_smaele:
+ name: Bryan De Smaele
+ pic: bryandesmaele.png
+ position: Evolutionary Architect
+ social:
+   - title: envelope
+     url: bryan.desmaele@tothepoint.company
+   - title: linkedin
+     url: https://be.linkedin.com/in/bryan-de-smaele-55bb8933
+
+wouter_cleymans:
+   name: Wouter Cleymans
+   pic: woutercleymans.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: wouter.cleymans@tothepoint.company
+     - title: linkedin
+       url: https://be.linkedin.com/in/cwouter/en
+
+kevin_smeyers:
+   name: Kevin Smeyers
+   pic: kevinsmeyers.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: kevin.smeyers@tothepoint.company
+     - title: linkedin
+       url: https://be.linkedin.com/in/ksmeyers
+
+eva_marijnissen:
+   name: Eva Marijnissen
+   pic: evamarijnissen.jpg
+   position: Evolutionary Talent Manager
+   social:
+     - title: envelope
+       url: eva.marijnissen@tothepoint.company
+     - title: linkedin
+       url: https://be.linkedin.com/in/evamarijnissen
+
+jeroen_jacobs:
+   name: Jeroen Jacobs
+   pic: jeroenjacobs.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: jeroen.jacobs@tothepoint.company
