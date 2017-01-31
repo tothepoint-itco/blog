@@ -390,3 +390,11 @@ serge_van_ginderachter:
        url: https://github.com/srvg
      - title: external-link
        url: https://serge.vanginderachter.be
+
+thomas_cools:
+   name: Thomas Cools
+   pic: thomascools.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: thomas.cools@tothepoint.company
