@@ -398,3 +398,11 @@ thomas_cools:
    social:
      - title: envelope
        url: thomas.cools@tothepoint.company
+
+martijn_vandenberghe:
+   name: Martijn Vandenberghe
+   pic: martijnvandenberghe.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: martijn.vandenberghe@tothepoint.company
