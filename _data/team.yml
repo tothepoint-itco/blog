@@ -226,15 +226,15 @@ jan_van_rensbergen:
     - title: linkedin
       url: https://be.linkedin.com/in/janvanrensbergen
 
-peter_de_kinder:
- name: Peter De Kinder
- pic: peterdekinder.jpg
+jurgen_lust:
+ name: Jurgen Lust
+ pic: jurgenlust.jpg
  position: Evolutionary Architect
  social:
    - title: envelope
-     url: peter.de.kinder@tothepoint.company
+     url: jurgen.lust@tothepoint.company
    - title: linkedin
-     url: https://be.linkedin.com/in/peterdekinder
+     url: https://www.linkedin.com/in/jurgenlust
 
 lars_van_herk:
  name: Lars Van Herk
