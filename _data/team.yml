@@ -84,19 +84,6 @@ michael_rigart:
     - title: external-link
       url: https://www.michaelrigart.be
 
-luc_duponcheel:
-  name: Luc Duponcheel
-  pic: lucduponcheel.jpg
-  position: Evolutionary Architect
-  social:
-    - title: envelope
-      url: luc.duponcheel@tothepoint.company
-    - title: twitter
-      handle: LucDup
-      url: https://twitter.com/LucDup
-    - title: linkedin
-      url: https://be.linkedin.com/in/lucduponcheel
-
 kris_duffeler:
   name: Kris Duffeler
   pic: krisduffeler.jpg
@@ -406,3 +393,43 @@ martijn_vandenberghe:
    social:
      - title: envelope
        url: martijn.vandenberghe@tothepoint.company
+
+wouter_bauweraerts:
+   name: Wouter Bauweraerts
+   pic: avatar.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: wouter.bauweraerts@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/wouter-bauweraerts-938689108/
+
+arne_adriaenssens:
+   name: Arne Adriaenssens
+   pic: arneadriaenssens.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: arne.adriaenssens@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/arne-adriaenssens-836730a7/
+
+wouter_adriaens:
+   name: Wouter Adriaens
+   pic: wouteradriaens.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: wouter.adriaens@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/wouter-adriaens-a747a0115/
+
+bo_vandersteene:
+   name: Bo Vandersteene
+   pic: avatar.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: bo.vandersteene@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/wouter-adriaens-a747a0115/

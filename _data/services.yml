@@ -2,31 +2,45 @@
   items:
     - DevOps
     - Distributed computing
-    - Search technologies
     - Scalable architectures
+    - Microservices
+    - Search technologies
     - Complex event processing
+    - Stream processing
     - Continuous delivery
     - Centralised logging
     - Containerisation
-    - Microservices
-    - Event sourcing
     - CQRS
-- title: Recently Gained
-  items:
+    - Event sourcing
     - Functional programming
     - Reactive programming
+    - Deep Learning (AI)
     - Data science
+    - Internet of Things
     - PAAS expertise
     - API management
-    - Internet of Things
-    - Stream processing
+    - AngularJS
+    - Node.js
+- title: Recently Gained
+  items:
     - NAO Robotics
+    - Microcontrollers
+    - Process engines
+    - Node-Red
+    - Kafka
+    - ReactJS
+    - Angular 2
+    - Vue.js
+    - Homie (Marvin Roger)
 - title: On Our Radar
   items:
-    - Deep Learning (AI)
     - Smart Machines
     - Industrial Internet of Things
     - Elixir
+    - Fog / Edge computing
+    - Flogo
+    - Kaa IoT platform
+    - Lagom (Lightbend)
 - title: Methodologies
   items:
     - Domain Driven Design
