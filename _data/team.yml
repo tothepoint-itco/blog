@@ -396,7 +396,7 @@ martijn_vandenberghe:
 
 wouter_bauweraerts:
    name: Wouter Bauweraerts
-   pic: avatar.jpg
+   pic: wouterbauweraerts.jpg
    position: Evolutionary Architect
    social:
      - title: envelope
@@ -433,3 +433,13 @@ bo_vandersteene:
        url: bo.vandersteene@tothepoint.company
      - title: linkedin
        url: https://www.linkedin.com/in/wouter-adriaens-a747a0115/
+
+matthias_wiels:
+   name: Matthias Wiels
+   pic: matthiaswiels.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: matthias.wiels@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/matthias-wiels-85464184/
