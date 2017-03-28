@@ -443,3 +443,13 @@ matthias_wiels:
        url: matthias.wiels@tothepoint.company
      - title: linkedin
        url: https://www.linkedin.com/in/matthias-wiels-85464184/
+
+nick_vermeylen:
+   name: Nick Vermeylen
+   pic: nickvermeylen.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: nick.vermeylen@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/nick-vermeylen/

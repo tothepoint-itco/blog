@@ -32,15 +32,15 @@
     - Angular 2
     - Vue.js
     - Homie (Marvin Roger)
+    - Elixir
 - title: On Our Radar
   items:
-    - Smart Machines
-    - Industrial Internet of Things
-    - Elixir
-    - Fog / Edge computing
-    - Flogo
-    - Kaa IoT platform
     - Lagom (Lightbend)
+    - Edge computing
+    - IoT platforms
+    - NB-IoT
+    - VR/AR
+    - Blockchain
 - title: Methodologies
   items:
     - Domain Driven Design
@@ -50,8 +50,8 @@
 - title: Architectures
   items:
     - Cloud-native
+    - Microservices
     - Service oriented
-    - Microservice
     - Model View Controller
     - Lambda
     - Kappa
