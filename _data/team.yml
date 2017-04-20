@@ -138,8 +138,8 @@ bas_van_holm:
       url: https://plus.google.com/u/0/103568869589588527640
 
 bert_duerinck:
-  name: Bert Deurinck
-  pic: avatar.jpg
+  name: Bert Duerinck
+  pic: bertduerinck.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
@@ -453,3 +453,21 @@ nick_vermeylen:
        url: nick.vermeylen@tothepoint.company
      - title: linkedin
        url: https://www.linkedin.com/in/nick-vermeylen/
+
+tom_soete:
+   name: Tom Soete
+   pic: tomsoete.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: tom.soete@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/tsoete/
+
+janosh_verdonck:
+   name: Janosh Verdonck
+   pic: janoshverdonck.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: janosh.verdonck@tothepoint.company
