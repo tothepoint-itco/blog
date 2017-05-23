@@ -472,3 +472,10 @@ janosh_verdonck:
      - title: envelope
        url: janosh.verdonck@tothepoint.company
 
+arthur_haelterman:
+   name: Arthur Haelterman
+   pic: arthurhaelterman.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: arthur.haelterman@tothepoint.company
