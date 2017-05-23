@@ -84,19 +84,6 @@ michael_rigart:
     - title: external-link
       url: https://www.michaelrigart.be
 
-luc_duponcheel:
-  name: Luc Duponcheel
-  pic: lucduponcheel.jpg
-  position: Evolutionary Architect
-  social:
-    - title: envelope
-      url: luc.duponcheel@tothepoint.company
-    - title: twitter
-      handle: LucDup
-      url: https://twitter.com/LucDup
-    - title: linkedin
-      url: https://be.linkedin.com/in/lucduponcheel
-
 kris_duffeler:
   name: Kris Duffeler
   pic: krisduffeler.jpg
@@ -151,8 +138,8 @@ bas_van_holm:
       url: https://plus.google.com/u/0/103568869589588527640
 
 bert_duerinck:
-  name: Bert Deurinck
-  pic: avatar.jpg
+  name: Bert Duerinck
+  pic: bertduerinck.jpg
   position: Evolutionary Architect
   social:
     - title: envelope
@@ -226,15 +213,15 @@ jan_van_rensbergen:
     - title: linkedin
       url: https://be.linkedin.com/in/janvanrensbergen
 
-peter_de_kinder:
- name: Peter De Kinder
- pic: peterdekinder.jpg
+jurgen_lust:
+ name: Jurgen Lust
+ pic: jurgenlust.jpg
  position: Evolutionary Architect
  social:
    - title: envelope
-     url: peter.de.kinder@tothepoint.company
+     url: jurgen.lust@tothepoint.company
    - title: linkedin
-     url: https://be.linkedin.com/in/peterdekinder
+     url: https://www.linkedin.com/in/jurgenlust
 
 lars_van_herk:
  name: Lars Van Herk
@@ -373,3 +360,122 @@ jeroen_jacobs:
    social:
      - title: envelope
        url: jeroen.jacobs@tothepoint.company
+
+serge_van_ginderachter:
+   name: Serge van Ginderachter
+   pic: sergevanginderachter.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: serge.vanginderachter@tothepoint.company
+     - title: twitter
+       handle: svg
+       url: https://twitter.com/svg
+     - title: linkedin
+       url: https://be.linkedin.com/in/srgvg
+     - title: github
+       url: https://github.com/srvg
+     - title: external-link
+       url: https://serge.vanginderachter.be
+
+thomas_cools:
+   name: Thomas Cools
+   pic: thomascools.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: thomas.cools@tothepoint.company
+
+martijn_vandenberghe:
+   name: Martijn Vandenberghe
+   pic: martijnvandenberghe.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: martijn.vandenberghe@tothepoint.company
+
+wouter_bauweraerts:
+   name: Wouter Bauweraerts
+   pic: wouterbauweraerts.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: wouter.bauweraerts@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/wouter-bauweraerts-938689108/
+
+arne_adriaenssens:
+   name: Arne Adriaenssens
+   pic: arneadriaenssens.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: arne.adriaenssens@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/arne-adriaenssens-836730a7/
+
+wouter_adriaens:
+   name: Wouter Adriaens
+   pic: wouteradriaens.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: wouter.adriaens@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/wouter-adriaens-a747a0115/
+
+bo_vandersteene:
+   name: Bo Vandersteene
+   pic: bovandersteene.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: bo.vandersteene@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/wouter-adriaens-a747a0115/
+
+matthias_wiels:
+   name: Matthias Wiels
+   pic: matthiaswiels.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: matthias.wiels@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/matthias-wiels-85464184/
+
+nick_vermeylen:
+   name: Nick Vermeylen
+   pic: nickvermeylen.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: nick.vermeylen@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/nick-vermeylen/
+
+tom_soete:
+   name: Tom Soete
+   pic: tomsoete.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: tom.soete@tothepoint.company
+     - title: linkedin
+       url: https://www.linkedin.com/in/tsoete/
+
+janosh_verdonck:
+   name: Janosh Verdonck
+   pic: janoshverdonck.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: janosh.verdonck@tothepoint.company
+
+arthur_haelterman:
+   name: Arthur Haelterman
+   pic: arthurhaelterman.jpg
+   position: Evolutionary Architect
+   social:
+     - title: envelope
+       url: arthur.haelterman@tothepoint.company
