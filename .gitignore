@@ -4,3 +4,4 @@ _site
 .code-highlighter-cache
 .DS_Store
 img/.DS_Store
+.idea/

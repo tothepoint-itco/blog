@@ -361,31 +361,6 @@ jeroen_jacobs:
      - title: envelope
        url: jeroen.jacobs@tothepoint.company
 
-serge_van_ginderachter:
-   name: Serge van Ginderachter
-   pic: sergevanginderachter.jpg
-   position: Evolutionary Architect
-   social:
-     - title: envelope
-       url: serge.vanginderachter@tothepoint.company
-     - title: twitter
-       handle: svg
-       url: https://twitter.com/svg
-     - title: linkedin
-       url: https://be.linkedin.com/in/srgvg
-     - title: github
-       url: https://github.com/srvg
-     - title: external-link
-       url: https://serge.vanginderachter.be
-
-thomas_cools:
-   name: Thomas Cools
-   pic: thomascools.jpg
-   position: Evolutionary Architect
-   social:
-     - title: envelope
-       url: thomas.cools@tothepoint.company
-
 martijn_vandenberghe:
    name: Martijn Vandenberghe
    pic: martijnvandenberghe.jpg
