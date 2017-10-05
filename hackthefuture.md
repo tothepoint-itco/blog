@@ -68,6 +68,10 @@ Our previous participation in Hack the Future has resulted in 3 new motivated te
 > This year I am able to return this favour to the next participants and I look forward to offering the students the experience that might change their life.  
 > -- <i>Arne</i>
 
+## Sign up
+
+If you feel like you're up for the job and are looking forward to being challenged while having a fun day, you can register [here](http://register2.hackthefuture.be){:target="_blank"}.
+
 ## Social media
 
 Make sure to follow us on social media:
