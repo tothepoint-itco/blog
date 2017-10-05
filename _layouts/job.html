@@ -3,15 +3,15 @@ layout: default
 ---
 <header class="blog" style="background-image:url('/img/job/{% if page.background_img %}{{ page.background_img }}{% else %}default.jpg{% endif %}');"></header>
 
-<div class="container">
-  <h1 class="text-center">{{ page.title | escape }}</h1>
-  <div class="row">
-    <article class="post col-lg-10 col-lg-offset-1" itemscope itemtype="http://schema.org/BlogPosting">
-      <div itemprop="articleBody">
-        {{ content }}
-      </div>
-    </article>
+<section>
+  <div class="container">
+    <h1 class="text-center">{{ page.title | escape }}</h1>
+    <div class="row">
+      <article class="post col-lg-10 col-lg-offset-1" itemscope itemtype="http://schema.org/BlogPosting">
+        <div itemprop="articleBody">
+          {{ content }}
+        </div>
+      </article>
+    </div>
   </div>
-</div>
-
-
+</section>
