@@ -11,6 +11,7 @@ Chaos rules the world now. The poor run rampant, stealing from the rich. They in
 You are safe – for now – in our bunker. Here you must gain the trust of each continent, so that they will share their data with you. That is the key, the source of the algorithm that may redistribute wealth, food and water so everyone can be made happy again. The road will be long and arduous. Sometimes you will need to devise an algorithm to help a continent, on other occasions you may need to hook up with a Raspberry Pi to reinstate a satellite link, query a database and send web requests. And sometimes you must deal with the unexpected... Are you ready?
 
 __Technologies used__:
+
 * Whichever language you want, but are able to set up a web server and send requests to a given endpoint and solve problems with...
 * Any knowledge of working with a Raspberry PI is a huge bonus
 * Deploying a Docker container
@@ -23,6 +24,7 @@ __Technologies used__:
 * a tiny bit of electronics (we’ll guide you here)
 
 __Recommended skillset__:
+
 * Full stack developer
 
 ## Our label "IT Decathlon"
