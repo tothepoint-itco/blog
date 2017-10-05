@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<header class="blog" style="background-image:url('/img/event/{% if page.header %}{{ page.header }}{% else %}default.jpg{% endif %}');"></header>
+
+<section>
+  <div class="container">
+    <h1 class="text-center">{{ page.title | escape }}</h1>
+    <div class="row">
+      <article class="post col-lg-10 col-lg-offset-1" itemscope itemtype="http://schema.org/BlogPosting">
+        <div itemprop="articleBody">
+          {{ content }}
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
