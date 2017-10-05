@@ -6,6 +6,7 @@ layout: default
 <section>
   <div class="container">
     <h1 class="text-center">{{ page.title | escape }}</h1>
+    {% if page.subtitle %} <h3 class="section-subheading text-muted text-center">{{ page.subtitle | escape }}</h3> {% endif %}
     <div class="row">
       <article class="post col-lg-10 col-lg-offset-1" itemscope itemtype="http://schema.org/BlogPosting">
         <div itemprop="articleBody">
