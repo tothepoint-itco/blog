@@ -50,16 +50,14 @@ Our previous participation in Hack the Future has resulted in 3 new motivated te
 > De challenges van ToThePoint waren geweldig uitgewerkt van backstory tot skillniveau.
 > Ik heb deze getackeld met totaal andere talen dan werden aangeraden, maar dit was geen probleem.
 > Er is zelfs een jobaanbieding uit voort gekomen voor mij, dus zeker niet aarzelen om mee te doen!"  
-
-~ Nick
+> -- <i>Nick</i>
 
 
 > Hack the Future was voor mij een geweldige ervaring. Ik ging naar deze hackathon zonder al te hoge verwachtingen en zonder te weten wat mij te wachten stond.
 > Het werd al snel duidelijk dat de challenge van Tothepoint alle aandacht trok door de grote diversiteit aan opdrachten en de geweldige consoles die ze gebouwd hadden.
 > De hackathon was een zeer leerrijke dag en leverde mij niet alleen een enorme ervaring op, maar ook een job bij Tothepoint. Een job waar ik de mogelijkheid heb om samen te werken met een geweldig team en dit in een zeer gemoedelijke sfeer. 
 > Kortom, HTF is "the place to be" voor de ervaring van je leven!  
-
-~ Wouter
+> -- <i>Wouter</i>
 
 ## Social media
 
