@@ -61,6 +61,13 @@ Our previous participation in Hack the Future has resulted in 3 new motivated te
 > Kortom, HTF is "the place to be" voor de ervaring van je leven!  
 > -- <i>Wouter</i>
 
+
+> Last year I participated in the Cronos Hackaton and took on the machine learning subject. I had no idea what to expect, but I was amazed by the work put in the setup and execution. 
+> There were many motivated employees around available for help, which they enthusiastically offered. The further the day proceeded, the more I got sucked in trying to solve the challenges. Me and my teammate even managed to finish in first place!
+> Not only did we have an amazing day and received a nice price, we both were offered a job at ToThePoint which we both accepted without a doubt.
+> This year I am able to return this favour to the next participants and I look forward to offering the students the experience that might change their life.  
+> -- <i>Arne</i>
+
 ## Social media
 
 Make sure to follow us on social media:
