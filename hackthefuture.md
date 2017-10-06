@@ -72,10 +72,10 @@ Our previous participation in Hack the Future has resulted into 3 new motivated 
 
 If you feel like you're up for the job and are looking forward to being challenged while having a fun day, you can register [here](http://register2.hackthefuture.be){:target="_blank"}.
 
-## Photos
+## Photos of last edition
 
 [![htf1]({{ "/img/htf/htf1.jpg"}}){:width="400px"}](../img/htf/htf1.jpg){:target="_blank"}
-[![htf2 dark]({{ "/img/htf/htf2.jpg"}}){:width="400px"}](../img/htf/htf2.jpg){:target="_blank"}
+[![htf2]({{ "/img/htf/htf2.jpg"}}){:width="400px"}](../img/htf/htf2.jpg){:target="_blank"}
 
 [![htf5]({{ "/img/htf/htf5.jpg"}}){:width="400px"}](../img/htf/htf5.jpg){:target="_blank"}
 [![htf6]({{ "/img/htf/htf6.jpg"}}){:width="400px"}](../img/htf/htf6.jpg){:target="_blank"}
