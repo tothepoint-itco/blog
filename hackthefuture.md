@@ -12,7 +12,7 @@ You are safe – for now – in our bunker. Here you must gain the trust of each
 
 __Technologies used__:
 
-* Whichever language you want, but are able to set up a web server and send requests to a given endpoint and solve problems with...
+* Whichever language you want, but you should be able to set up a web server, send requests to a given endpoint and solve problems with it...
 * Any knowledge of working with a Raspberry PI is a huge bonus
 * Deploying a Docker container
 * You are up to REST
@@ -29,7 +29,7 @@ __Recommended skillset__:
 
 ## Our label "IT Decathlon"
 
-We chose the label IT Decathlon as a description for our Hack the Future track, because we do not focus on one single technology, framework, methodology, ... We believe that a true software craftsman should know a bit of everything, in order to decide which technology, language, ... to pick for a specific use case. Besides, at ToThePoint, we are not mere software developers. We are solution architects, meaning that we do not just care about the code, we care about the whole end-to-end process of delivering a working application. The technical design and analysis, the deployment cycle and of course the development of the application. Therefore, we figured that the label "IT Decathlon" would fit us best.
+We chose the label IT Decathlon as a description for our Hack the Future track, because we do not focus on one single technology, framework, methodology, ... We believe that a true software craftsman should know a bit of everything, in order to decide which technology, language, ... to pick for a specific case. Besides, at ToThePoint, we are not mere software developers. We are solution architects, meaning that we do not just care about the code, we care about the whole end-to-end process of delivering a working application. The technical design and analysis, the deployment cycle and of course the development of the application. Therefore, we figured that the label "IT Decathlon" would fit our track best.
 
 ## Why would you attend our track?
 
@@ -37,15 +37,15 @@ Because it is fun! No, seriously, we put a lot of effort in our challenges in or
 
 ## Our goal
 
-Our goal of participating in Hack the Future, is that at the end of the day you can all go home with the feeling of having had a fun day, that you learned a lot of cool stuff while being challenged in many different ways.
+Our goal of participating in Hack the Future, is that at the end of the day you can go home with the feeling of having had a fun day and that you learned a lot of cool stuff while being challenged in many different ways.
 
 ## Can I prepare myself?
 
-Of course! Soon we will update this place with a list of items that are really worth looking into before attending our track. It is not required to prepare, but it can save you a lot of time on the hack-day itself. So keep tuned!
+Of course! Soon we will update this page with a list of items that are really worth looking into before attending our track. It is not required to prepare, but it can save you a lot of time on the hack-day itself. So stay tuned!
 
 ## 3 hackers from the previous edition joined us!
 
-Our previous participation in Hack the Future has resulted in 3 new motivated team members! Arne, Wouter and Nick participated as hackers in the previous edition, but this year they will be at the ToThePoint desk as part of the crew.
+Our previous participation in Hack the Future has resulted into 3 new motivated team members! Arne, Wouter and Nick participated as hackers in the previous edition, but this year you will find them at the ToThePoint desk as part of the crew.
 
 
 > "HackTheFuture was gewoonweg een geweldige ervaring en moet je zeker eens gedaan hebben als je een beetje interesse hebt in coding.
@@ -76,6 +76,7 @@ If you feel like you're up for the job and are looking forward to being challeng
 
 Make sure to follow us on social media:
 
-* [Facebook](https://www.facebook.com/ToThePointITCo)
-* [Twitter](https://twitter.com/ToThePoint_ITCo)
-* [LinkedIn](https://www.linkedin.com/company/to-the-point-it-company)
+* [Facebook](https://www.facebook.com/ToThePointITCo){:target="_blank"}
+* [Instagram](https://www.instagram.com/wearetothepoint){:target="_blank"}
+* [Twitter](https://twitter.com/ToThePoint_ITCo){:target="_blank"}
+* [LinkedIn](https://www.linkedin.com/company/to-the-point-it-company){:target="_blank"}
