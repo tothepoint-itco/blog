@@ -488,6 +488,21 @@ section h3.section-subheading {
   border: 7px solid #fff;
 }
 
+.team-member .company-header-avatar{
+  width: 200px;
+  height: 200px;
+  -webkit-border-radius: 50%;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: 50%;
+  -moz-background-clip: padding;
+  border-radius: 50%;
+  background-clip: padding-box;
+  margin: 0 auto;
+  border: 7px solid #fff;
+  background-size: cover;
+  background-position: center center;
+}
+
 .team-member h4 {
   margin-top: 25px;
   margin-bottom: 0;
