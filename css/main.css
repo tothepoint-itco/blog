@@ -489,6 +489,7 @@ section h3.section-subheading {
 }
 
 .team-member .company-header-avatar{
+  display: block;
   width: 200px;
   height: 200px;
   -webkit-border-radius: 50%;
