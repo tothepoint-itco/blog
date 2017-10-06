@@ -72,6 +72,20 @@ Our previous participation in Hack the Future has resulted into 3 new motivated 
 
 If you feel like you're up for the job and are looking forward to being challenged while having a fun day, you can register [here](http://register2.hackthefuture.be){:target="_blank"}.
 
+## Photos
+
+[![htf1]({{ "/img/htf/htf1.jpg"}}){:width="400px"}](../img/htf/htf1.jpg){:target="_blank"}
+[![htf2 dark]({{ "/img/htf/htf2.jpg"}}){:width="400px"}](../img/htf/htf2.jpg){:target="_blank"}
+
+[![htf5]({{ "/img/htf/htf5.jpg"}}){:width="400px"}](../img/htf/htf5.jpg){:target="_blank"}
+[![htf6]({{ "/img/htf/htf6.jpg"}}){:width="400px"}](../img/htf/htf6.jpg){:target="_blank"}
+
+[![htf7]({{ "/img/htf/htf7.jpg"}}){:width="400px"}](../img/htf/htf7.jpg){:target="_blank"}
+[![htf9]({{ "/img/htf/htf9.jpg"}}){:width="400px"}](../img/htf/htf9.jpg){:target="_blank"}
+
+[![htf10]({{ "/img/htf/htf10.jpg"}}){:width="400px"}](../img/htf/htf10.jpg){:target="_blank"}
+[![htf11]({{ "/img/htf/htf11.jpg"}}){:width="400px"}](../img/htf/htf11.jpg){:target="_blank"}
+
 ## Social media
 
 Make sure to follow us on social media:
